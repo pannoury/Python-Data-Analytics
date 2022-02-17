@@ -1,4 +1,4 @@
 import pandas as pd
 
-df = pd.read_csv('../../../VÄNORTSTRÅKET.xlsx')
-print(df.to_string())
+data_import = pd.read_excel("test.xlsx")
+print(data_import)
