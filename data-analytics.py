@@ -1,2 +1,3 @@
-def test():
-    print("Hello world")
+val = input("Enter your value: ")
+
+print(val)
